@@ -1,4 +1,4 @@
-# 🎵 **– SpotTune A Music Recommender**
+# 🎵 **SpotTune A Music Recommender**
 
 This project is a simple yet powerful **Music Recommendation System** that uses the **Spotify Web API** to fetch track details, analyze features, and generate personalized music suggestions.  
 It is designed as a beginner-friendly mini–project for experimenting with APIs, recommendation logic, and Python scripting.
